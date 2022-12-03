@@ -1,3 +1,8 @@
-import { server } from './server';
+import { Server } from './server';
 
-console.log(server);
+const main = () => {
+  const server = new Server();
+  server.start();
+}
+
+main();

@@ -2,5 +2,6 @@
 
 
 ## Getting Started
-`yarn install`
-`yarn dev`
+1. `yarn install`
+2. `yarn dev`
+  
